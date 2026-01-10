@@ -26,7 +26,7 @@ This portfolio represents my learning and exploration of:
 - Performance-aware animation usage
 
 The goal was to create something **more than a static portfolio** — a digital presence that feels alive.
-
+.
 ## 🛠️ Tech Stack
 
 - **HTML5**
@@ -37,4 +37,6 @@ The goal was to create something **more than a static portfolio** — a digital 
 > No frameworks used — keeping it lightweight and beginner-friendly.
 
 ## 📂 Project Structure
+
+Project structure will be added soon.
 
